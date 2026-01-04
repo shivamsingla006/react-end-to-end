@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-      <h1>First React Learning123</h1>
+      <h1>First React Learning 123</h1>
     </>
   )
 }
